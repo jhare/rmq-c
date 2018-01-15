@@ -1,4 +1,4 @@
-OBJS = listen.cpp
+OBJS = listen.cpp utils.c
 OBJ_NAME = listen
 CC = g++
 COMPILER_FLAGS = -w
